@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#14082a" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="description" content="Storm Wheel: a Celtic storm slot. Demo build with play money." />
+  <title>Storm Wheel</title>
+  <link rel="icon" type="image/png" href="./favicon.png" />
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+  <link rel="preload" href="./assets/symbols.webp" as="image" />
+  <link rel="preload" href="./assets/logo.webp" as="image" />
+  <script type="module" crossorigin src="./assets/index-D_re5Xyw.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-C9LyKTVJ.css">
+</head>
+<body>
+  <div id="app" class="game">
+    <div class="bg"></div>
+
+    <header class="top">
+      <img id="logo" class="logo" src="./assets/logo.webp" alt="Storm Wheel" draggable="false" width="600" height="394" />
+      <div class="progress" id="progress" aria-label="Circle of Storms progress"></div>
+    </header>
+
+    <main class="stage">
+      <div class="fsbar hidden" id="fsbar"></div>
+      <div class="reelbox"><div id="reels" class="reels"></div></div>
+      <div class="message" id="message">&nbsp;</div>
+    </main>
+
+    <footer class="controls">
+      <div class="meters">
+        <div class="meter"><span class="label">Balance</span><span class="value" id="balance">-</span></div>
+        <div class="meter bet">
+          <button class="round small" id="betDown" aria-label="Lower bet">−</button>
+          <div><span class="label">Bet</span><span class="value" id="bet">-</span></div>
+          <button class="round small" id="betUp" aria-label="Raise bet">+</button>
+        </div>
+        <div class="meter"><span class="label">Win</span><span class="value" id="win">-</span></div>
+      </div>
+      <div class="buttons">
+        <button class="round" id="menuBtn" aria-label="Menu and paytable">☰</button>
+        <button class="round" id="soundBtn" aria-label="Sound on or off">🔊</button>
+        <button class="spin" id="spinBtn" aria-label="Spin">SPIN</button>
+        <button class="round pill" id="autoBtn" aria-label="Autoplay">AUTO</button>
+        <button class="round pill" id="turboBtn" aria-label="Turbo spin">TURBO</button>
+      </div>
+    </footer>
+
+    <div class="bigwin hidden" id="bigwin"><div class="bw-title"></div><div class="bw-amount"></div></div>
+    <div id="modal" class="modal hidden" role="dialog" aria-modal="true"><div class="sheet"><button class="close" aria-label="Close">✕</button><div class="content"></div></div></div>
+    <div id="loading" class="loading"><img src="./assets/logo.webp" alt="" /><div class="bar"><div id="loadbar"></div></div><div class="small">Play money demo</div></div>
+  </div>
+</body>
+</html>

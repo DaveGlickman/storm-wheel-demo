@@ -1,0 +1,532 @@
+{
+ "frames": {
+  "A": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "A_win": {
+   "frame": {
+    "x": 180,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "K": {
+   "frame": {
+    "x": 360,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "K_win": {
+   "frame": {
+    "x": 540,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "Q": {
+   "frame": {
+    "x": 720,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "Q_win": {
+   "frame": {
+    "x": 900,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "J": {
+   "frame": {
+    "x": 1080,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "J_win": {
+   "frame": {
+    "x": 0,
+    "y": 180,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "T": {
+   "frame": {
+    "x": 180,
+    "y": 180,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "T_win": {
+   "frame": {
+    "x": 360,
+    "y": 180,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "N": {
+   "frame": {
+    "x": 540,
+    "y": 180,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "N_win": {
+   "frame": {
+    "x": 720,
+    "y": 180,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "WILD": {
+   "frame": {
+    "x": 900,
+    "y": 180,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "WILD_win": {
+   "frame": {
+    "x": 1080,
+    "y": 180,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "SCAT": {
+   "frame": {
+    "x": 0,
+    "y": 360,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "SCAT_win": {
+   "frame": {
+    "x": 180,
+    "y": 360,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "P1": {
+   "frame": {
+    "x": 360,
+    "y": 360,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "P1_win": {
+   "frame": {
+    "x": 540,
+    "y": 360,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "P2": {
+   "frame": {
+    "x": 720,
+    "y": 360,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "P2_win": {
+   "frame": {
+    "x": 900,
+    "y": 360,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "G1": {
+   "frame": {
+    "x": 1080,
+    "y": 360,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "G1_win": {
+   "frame": {
+    "x": 0,
+    "y": 540,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "G2": {
+   "frame": {
+    "x": 180,
+    "y": 540,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "G2_win": {
+   "frame": {
+    "x": 360,
+    "y": 540,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "G3": {
+   "frame": {
+    "x": 540,
+    "y": 540,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "G3_win": {
+   "frame": {
+    "x": 720,
+    "y": 540,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "G4": {
+   "frame": {
+    "x": 900,
+    "y": 540,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  },
+  "G4_win": {
+   "frame": {
+    "x": 1080,
+    "y": 540,
+    "w": 180,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 180
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 180
+   }
+  }
+ },
+ "meta": {
+  "image": "symbols.webp",
+  "size": {
+   "w": 1260,
+   "h": 720
+  },
+  "scale": "1",
+  "labels": {
+   "A": "A ruby",
+   "K": "K sapphire",
+   "Q": "Q emerald",
+   "J": "J amethyst",
+   "T": "10 amber",
+   "N": "9 turquoise",
+   "WILD": "Wild",
+   "SCAT": "Taranis's Wheel (scatter)",
+   "P1": "Golden torc",
+   "P2": "Standing stones",
+   "G1": "Andraste",
+   "G2": "Cerridwen",
+   "G3": "The Morrigan",
+   "G4": "Taranis"
+  }
+ }
+}
